@@ -5,19 +5,19 @@ This project is an interactive Superstore Sales Dashboard built using Microsoft 
 
 ## Features
 ## Interactive Slicers
-Region
-Ship Mode
-Segment
+Region 
+Ship Mode 
+Segment 
 Year
-Category
+Category 
 
 ## KPI Cards
-Total Sales
-Total Profit
-Total Orders
-Total Customers
-Total Quantity
-Profit Margin
+Total Sales 
+Total Profit 
+Total Orders  
+Total Customers 
+Total Quantity 
+Profit Margin 
 
 ## Tools Used
 Microsoft Excel
