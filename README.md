@@ -5,37 +5,37 @@ This project is an interactive Superstore Sales Dashboard built using Microsoft 
 
 ## Features
 ## Interactive Slicers
-Region
-Ship Mode
-Segment
-Year
+Region,
+Ship Mode,
+Segment,
+Year,
 Category
 
 ## KPI Cards
-Total Sales 
-Total Profit 
-Total Orders  
-Total Customers 
-Total Quantity 
+Total Sales,
+Total Profit, 
+Total Orders, 
+Total Customers, 
+Total Quantity, 
 Profit Margin 
 
 ## Tools Used
-Microsoft Excel
-Pivot Tables
-Pivot Charts
-Slicers
-Conditional Formatting
-Excel Shapes & Icons
+Microsoft Excel,
+Pivot Tables,
+Pivot Charts,
+Slicers,
+Conditional Formatting,
+Excel Shapes & Icons,
 chatgpt
 
 ## Project Objective
 The objective of this project is to create an interactive dashboard that helps businesses:
 
-Monitor sales performance
-Identify profitable categories
-Analyze regional sales
-Track customer and product performance
-Make data-driven decisions
+Monitor sales performance,
+Identify profitable categories,
+Analyze regional sales,
+Track customer and product performance,
+Make data-driven decisions,
 
 ## Author
 Swejal Dahare
